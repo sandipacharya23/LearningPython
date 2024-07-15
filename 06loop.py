@@ -20,3 +20,23 @@ country_capital = {
 for k in country_capital:
         print(f"Capital city of {k} is {country_capital[k]}")
 
+
+# break and continue in loop
+# for i in range(1,11):
+#         if i == 5:
+#                 break
+#         print(i)
+
+
+for i in range(1,11):
+        if i == 5:
+                continue
+        print(i)
+
+
+##wap to print 1 to 10 but not [3,5,9]
+#if maa i==3 or i==5 or i==9:
+
+
+
+
