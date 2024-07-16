@@ -34,6 +34,6 @@ p2 = Laptop(id=2, name='mac', ram= '10GB')
 p3 = Laptop(id=3, name='HP', ram= '5GB')
 p1.display()
 p2.display()
-#p3.display()
+p3.display()
         
         
